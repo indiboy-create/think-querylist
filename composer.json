@@ -1,5 +1,15 @@
 {
     "name": "youvision/think-querylist",
+    "authors": [
+        {
+            "name": "indiboy-create",
+            "homepage": "https://github.com/indiboy-create"
+        },
+        {
+            "name": "AI",
+            "role": "Developer"
+        }
+    ],
     "description": "ThinkPHP 8 集成 QueryList 的网页采集扩展，支持多采集配置、链式规则与容器注入",
     "type": "library",
     "keywords": [
